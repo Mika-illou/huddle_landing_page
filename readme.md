@@ -38,3 +38,9 @@ Optimisation des espacements et marges
 Palette de couleurs harmonieuse avec accent sur le rose (#FE7DD2) et violet (hsl(322, 100%, 66%))
 Utilisation d'ombres portées pour créer de la profondeur
 Cartes avec coins arrondis pour un look moderne
+
+[](./images/capture_1.png)
+[](./images/capture_2.png)
+[](./images/capture_3.png)
+[](./images/capture_4.png)
+[](./images/capture_5.png)
